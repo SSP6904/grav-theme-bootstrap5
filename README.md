@@ -35,6 +35,7 @@ Once you have installed the theme, you can open your perfered browser, and navig
 
 ## Copyright and sources
 Bootstrap 5 belongs to the Bootstrap Team. [Website](https://getbootstrap.com/)
+
 GravCMS belongs to the Grav Team. [Website](https://getgrav.org/)
 
-[Dark mode feature](https://getbootstrap.com/docs/5.3/customize/color-modes/#javascript)
+Dark mode feature. [Link](https://getbootstrap.com/docs/5.3/customize/color-modes/#javascript)
