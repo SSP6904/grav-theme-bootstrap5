@@ -23,5 +23,7 @@ GravCMS belongs to the Grav Team. [Website](https://getgrav.org/)
 Dark mode feature. [Link](https://getbootstrap.com/docs/5.3/customize/color-modes/#javascript)
 
 ## Screenshots
-![bootstrap5-navbar](https://github.com/SSP6904/grav-theme-bootstrap5/assets/75172901/309d8ae9-0ea6-4176-ae7d-8c2ce684a8ca)
-![bootstrap5-offcanvas](https://github.com/SSP6904/grav-theme-bootstrap5/assets/75172901/7165749b-944c-4e40-b088-2460db06570c)
+![bootstrap5-navbar](https://github.com/SSP6904/grav-theme-bootstrap5/assets/75172901/8dfbc662-66ec-4895-9a9b-76c6af6fa5fb)
+![bootstrap5-offcanvas](https://github.com/SSP6904/grav-theme-bootstrap5/assets/75172901/bf5e3d9f-ebc1-4f82-8f94-c369a0f8ae6a)
+
+
