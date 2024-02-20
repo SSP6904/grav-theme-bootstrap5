@@ -10,6 +10,8 @@ This theme features the Bootstrap 5 CSS libary that is intergrated with GravCMS.
 ## Installing
 There is 2 versions of this theme. The first one includes a offcanvas navbar, while the other one just has the normal navbar. You can choose whatever suits you. Go to the releases page, click the latest release, and download one of the versions. Both are in a ZIP format.
 
+> NOTICE: 2024-02-20 - We added both the offcanvas and normal navbar into the theme and is now a all-in-one theme. You can change the navbar type using the admin portal. See the wiki for more information!
+
 Unzip the archive to your themes directory. The directory is located in the "users" folder withen your GravCMS install folder. After that, you can either use the Admin portal to enable the theme, or use the config.yaml file to enable the theme. 😉
 
 ## Finshed product
